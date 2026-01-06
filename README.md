@@ -34,7 +34,7 @@ Cholesterol level
 
 Fasting blood sugar
 … and more. 
-GeeksforGeeks
+
 
 You can replace the placeholder dataset with the UCI Heart Disease dataset or any formatted CSV with similar attributes.
 
