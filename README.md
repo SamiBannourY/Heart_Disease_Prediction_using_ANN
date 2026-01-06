@@ -3,7 +3,7 @@ Heart Disease Prediction using ANN
 🧠 Overview
 
 Heart disease is a major global health issue. Early detection can significantly improve patient outcomes. In this project, we apply a neural network classifier to a heart disease dataset to automate diagnostic predictions. 
-GeeksforGeeks
+
 
 Goals:
 
@@ -95,7 +95,7 @@ Calculate accuracy
 📊 Results
 
 This model typically achieves around ~88% accuracy on the test dataset. 
-GeeksforGeeks
+
 
 You can further evaluate performance via:
 
