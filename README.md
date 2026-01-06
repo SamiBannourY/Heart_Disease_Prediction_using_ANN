@@ -1,9 +1,5 @@
 Heart Disease Prediction using ANN
 
-This project demonstrates how to build a Deep Learning model to predict the presence of heart disease in patients using an Artificial Neural Network (ANN).
-
-The model learns patterns in medical data to classify whether a person has heart disease based on clinical attributes such as age, blood pressure, cholesterol, ECG results, etc.
-
 🧠 Overview
 
 Heart disease is a major global health issue. Early detection can significantly improve patient outcomes. In this project, we apply a neural network classifier to a heart disease dataset to automate diagnostic predictions. 
